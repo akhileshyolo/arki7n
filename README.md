@@ -1,13 +1,13 @@
 ### Hi there, I'm [Akhilesh Yadav!](https://ayzom.com) 👋
 
 <a href="https://linkedin.com/in/arki7n">
-  <img align="left" alt="Akhilesh Yadav| Linkedin" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Akhilesh Yadav| Linkedin" width="20px" src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" />
 </a>
 <a href="https://twitter.com/arki7n">
   <img align="left" alt="Akhilesh Yadav | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://instagram.com/arki7n">
-  <img align="left" alt="Akhilesh's Instagram" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Akhilesh's Instagram" width="21px" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-08-512.png" />
 </a>
 
 <br />
