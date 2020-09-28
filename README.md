@@ -3,10 +3,7 @@
 <a href="https://www.linkedin.com/in/arki7n"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/arki7n"><img src="https://img.shields.io/github/followers/arki7n.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
-
 <br />
-<br />
-
 Hi, I'm Akhilesh Yadav, a passionate self-taught fullstack web developer from India.
 
 **Languages and Tools:**  
