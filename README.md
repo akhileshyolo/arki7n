@@ -4,17 +4,6 @@
 <a href="https://github.com/arki7n"><img src="https://img.shields.io/github/followers/arki7n.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
 
-
-<a href="https://linkedin.com/in/arki7n">
-  <img align="left" alt="Akhilesh Yadav| Linkedin" width="20px" src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" />
-</a>
-<a href="https://twitter.com/arki7n">
-  <img align="left" alt="Akhilesh Yadav | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://instagram.com/arki7n">
-  <img align="left" alt="Akhilesh's Instagram" width="21px" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-08-512.png" />
-</a>
-
 <br />
 <br />
 
